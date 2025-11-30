@@ -7,7 +7,7 @@ Attendance management system (harees, sadushan, manuka)
 ![WBS](WBS.png)
 
 ### 📅 Gantt Chart
-![Gantt Chart](Project Milestone Template.png)
+![Gantt Chart](Gantt%20Chart.png)
 
 ### 📊 Project Milestone Template
-![Milestone Template](Project Milestone Template.png)
+![Milestone Template](Project%20Milestone%20Template.png)
